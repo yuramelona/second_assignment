@@ -1,0 +1,18 @@
+.page-header {
+    text-align: center;
+    background-color: #a0f3ea;
+    margin: 0;
+}
+
+.content-container {
+    background-color: #dfe2e2;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.col-md-8 {
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
+    text-align: center;
+}
